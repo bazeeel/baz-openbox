@@ -15,14 +15,14 @@ set -e
 
 sh install-all-icons-sardi-extra-packer-v*.sh
 sh install-all-plank-themes-v*.sh
-sh install-canon-mg7750-v*.sh
+#sh install-canon-mg7750-v*.sh
 sh install-dropbox-v*.sh
 sh install-gnome-screenshot-v*.sh
-sh install-gradio-v*.sh
-sh install-insync-v*.sh
+#sh install-gradio-v*.sh
+#sh install-insync-v*.sh
 sh install-pacli-v*.sh
 sh install-screenkey-v*.sh
-sh install-skypeforlinux-bin-v*.sh
+#sh install-skypeforlinux-bin-v*.sh
 sh install-spotify-v*.sh
 sh install-teamviewer-v*.sh
 sh install-virtualbox-for-kernel-4.12-v*.sh

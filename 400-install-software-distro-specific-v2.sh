@@ -55,6 +55,8 @@ sudo pacman -S openbox-themes --needed --noconfirm
 sudo pacman -S tint2 --needed --noconfirm
 sudo pacman -S xorg-xkill --needed --noconfirm
 sudo pacman -S openbox --needed --noconfirm
+sudo pacman -S thunar thunar-volman thunar-archive-plugin --needed --noconfirm
+
 
 #octopi is giving problems
 sh install-pamac-aur-v1.sh

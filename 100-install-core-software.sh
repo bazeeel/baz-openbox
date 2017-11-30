@@ -13,7 +13,7 @@ set -e
 
 #software from 'normal' repositories
 sudo pacman -S --noconfirm --needed conky curl
-sudo pacman -S --noconfirm --needed darktable dconf-editor
+sudo pacman -S --noconfirm --needed dconf-editor
 sudo pacman -S --noconfirm --needed dmidecode 
 sudo pacman -S --noconfirm --needed evince evolution filezilla 
 sudo pacman -S --noconfirm --needed galculator geary git gksu 
@@ -21,7 +21,7 @@ sudo pacman -S --noconfirm --needed galculator geary git gksu
 #sudo pacman -S --noconfirm --needed gnome-terminal
 sudo pacman -S --noconfirm --needed gparted gpick 
 sudo pacman -S --noconfirm --needed hardinfo hddtemp htop 
-sudo pacman -S --noconfirm --needed inxi lm_sensors lsb-release meld mlocate mpv
+sudo pacman -S --noconfirm --needed inxi lm_sensors lsb-release mlocate mpv
 sudo pacman -S --noconfirm --needed plank polkit-gnome 
 sudo pacman -S --noconfirm --needed redshift screenfetch scrot  
 sudo pacman -S --noconfirm --needed simple-scan simplescreenrecorder smplayer sysstat 
