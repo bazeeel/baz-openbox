@@ -22,7 +22,7 @@ set -e
 
 echo "Installing category Accessories"
 
-sh AUR/install-conky-lua-archers-v*.sh
+#sh AUR/install-conky-lua-archers-v*.sh
 #sh AUR/install-cool-retro-term-v*.sh
 #sh AUR/install-mintstick-git-v*.sh
 sh AUR/install-temps-v*.sh
@@ -53,7 +53,7 @@ sh AUR/install-vivaldi-v*.sh
 echo "Installing category Multimedia"
 
 #sh AUR/install-gradio-v*.sh
-sh AUR/install-peek-v*.sh
+#sh AUR/install-peek-v*.sh
 #sh AUR/install-radiotray-v*.sh
 sh AUR/install-spotify-v*.sh
 
@@ -67,11 +67,11 @@ echo "Installing category Other"
 echo "Installing category System"
 
 sh AUR/install-arc-gtk-theme-git-v*.sh
-sh AUR/install-conky-aureola-v*.sh
+#sh AUR/install-conky-aureola-v*.sh
 sh AUR/install-downgrade-v*.sh
 sh AUR/install-neofetch-v*.sh
 sh AUR/install-numix-circle-icon-theme-git-v*.sh
-sh AUR/install-pamac-aur-v*.sh
+#sh AUR/install-pamac-aur-v*.sh
 sh AUR/install-paper-icon-theme-git-v*.sh
 sh AUR/install-papirus-icon-theme-git-v*.sh
 sh AUR/install-sardi-icons-v*.sh
@@ -80,7 +80,7 @@ sh AUR/install-screenkey-v*.sh
 sh AUR/install-surfn-icons-git-v*.sh
 sh AUR/install-ttf-font-awesome-v*.sh
 sh AUR/install-ttf-mac-fonts-v*.sh
-sh AUR/install-virtualbox-for-linux-kernel-v*.sh
+#sh AUR/install-virtualbox-for-linux-kernel-v*.sh
 sh AUR/install-xcursor-breeze-v*.sh
 
 
