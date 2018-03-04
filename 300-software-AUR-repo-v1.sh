@@ -70,14 +70,14 @@ sh AUR/install-arc-gtk-theme-git-v*.sh
 #sh AUR/install-conky-aureola-v*.sh
 sh AUR/install-downgrade-v*.sh
 sh AUR/install-neofetch-v*.sh
-sh AUR/install-numix-circle-icon-theme-git-v*.sh
+#sh AUR/install-numix-circle-icon-theme-git-v*.sh
 #sh AUR/install-pamac-aur-v*.sh
 sh AUR/install-paper-icon-theme-git-v*.sh
-sh AUR/install-papirus-icon-theme-git-v*.sh
-sh AUR/install-sardi-icons-v*.sh
-sh AUR/install-sardi-extra-icons-v*.sh
+#sh AUR/install-papirus-icon-theme-git-v*.sh
+#sh AUR/install-sardi-icons-v*.sh
+#sh AUR/install-sardi-extra-icons-v*.sh
 sh AUR/install-screenkey-v*.sh
-sh AUR/install-surfn-icons-git-v*.sh
+#sh AUR/install-surfn-icons-git-v*.sh
 sh AUR/install-ttf-font-awesome-v*.sh
 sh AUR/install-ttf-mac-fonts-v*.sh
 #sh AUR/install-virtualbox-for-linux-kernel-v*.sh
@@ -88,7 +88,7 @@ sh AUR/install-xcursor-breeze-v*.sh
 #Other possibilities
 #sh AUR/install-canon-mg7750-v*.sh
 #sh AUR/install-pacli-v*.sh
-#sh AUR/install-teamviewer-v*.sh
+sh AUR/install-teamviewer-v*.sh
 #sh AUR/install-virtualbox-for-linux-lts-kernel-v*.sh
 
 

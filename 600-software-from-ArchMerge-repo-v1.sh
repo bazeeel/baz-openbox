@@ -19,7 +19,7 @@ sudo pacman -S archmerge-arc-themes-git --noconfirm --needed
 sudo pacman -S archmerge-common-git --noconfirm --needed
 sudo pacman -S archmerge-conky-collection-git --noconfirm --needed
 sudo pacman -S archmerge-docs-git --noconfirm --needed
-#sudo pacman -S archmerge-i3wm-git --noconfirm --needed
+sudo pacman -S archmerge-i3wm-git --noconfirm --needed
 sudo pacman -S archmerge-iso-skel-git --noconfirm --needed
 sudo pacman -S archmerge-oblogout-themes-git --noconfirm --needed
 sudo pacman -S archmerge-obmenu-generator-git --noconfirm --needed

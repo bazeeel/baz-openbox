@@ -61,12 +61,12 @@ sudo pacman -S slim --noconfirm --needed
 sudo pacman -S volumeicon  --noconfirm --needed
 sudo pacman -S w3m  --noconfirm --needed
 sudo pacman -S xorg-xrandr --noconfirm --needed
-sudo pacman -S xfce4-appfinder --noconfirm --needed
+#sudo pacman -S xfce4-appfinder --noconfirm --needed
 #sudo pacman -S xfce4-clipman-plugin --noconfirm --needed
 sudo pacman -S xfce4-power-manager --noconfirm --needed
 sudo pacman -S xfce4-settings --noconfirm --needed
 sudo pacman -S xfce4-screenshooter --noconfirm --needed
-sudo pacman -S xfce4-taskmanager --noconfirm --needed
+#sudo pacman -S xfce4-taskmanager --noconfirm --needed
 
 #Testing if we need xfce4-session
 #sudo pacman -S xfce4-session --noconfirm --needed
